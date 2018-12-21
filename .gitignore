@@ -41,9 +41,9 @@
 *.VC.db
 *.VC.opendb
 
-StarterContent/*
-Mannequin/*
-Geometry/*
+Content/StarterContent/*
+Content/Mannequin/*
+Content/Geometry/*
 
 # Precompiled Assets
 SourceArt/**/*.png
